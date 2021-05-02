@@ -5,7 +5,7 @@
 # :bookmark_tabs:Sobre
 
 O projeto **python-scrapring** foi criado dentro do curso 
-<a href="https://cursos.alura.com.br/course/web-scraping-data-science-python""><b>SCRAPING COM PYTHON: COLETA DE DADOS NA WEB</b><a/>
+<a href="https://cursos.alura.com.br/course/web-scraping-data-science-python"><b>SCRAPING COM PYTHON: COLETA DE DADOS NA WEB</b><a/>
 com intuito de colocar em prática
 todo o conteúdo estudado durante o curso
 
